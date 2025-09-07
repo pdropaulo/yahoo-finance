@@ -75,7 +75,7 @@ Linhas de tendência para análise de curto e longo prazo.
 
 ## 🚀 6. Como Acessar
 O painel completo pode ser acessado aqui:  
-👉 [Link para o Tableau Public][https://public.tableau.com/profile/api/publish/YahooFinances/Painel1]
+👉 [Link para o Tableau Public](https://public.tableau.com/profile/api/publish/YahooFinances/Painel1)
 
 ---
 
